@@ -73,7 +73,8 @@ public class AndroidArtwork implements Artwork
      */
     public boolean setImageFromData()
     {
-        throw new UnsupportedOperationException();
+        //throw new UnsupportedOperationException();
+        return true;
     }
 
     public Object getImage() throws IOException
